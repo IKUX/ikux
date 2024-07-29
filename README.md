@@ -1,5 +1,6 @@
 ## Hi there 👋
-
+I'm student of telecommunications engineering, learning how to code and work with verilog.
+I'm looking for help with that and to collaborate with other people with creative projects. 
 <!--
 **IKUX/ikux** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
